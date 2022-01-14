@@ -35,3 +35,13 @@ The Standard Template Library (STL) is a set of C++ template classes to provide 
 4. <b>Unordered Associative Containers</b> - Unordered Data Structures that can be quickly searched
    - Unordered Set
    - Unordered Map
+
+---
+
+## How to use this repository
+
+1. Clone this repository
+2. Select the topic you want to learn, and open the .cpp file for that topic
+3. Run the code
+
+For better understanding, keep the code and output side-by-side
